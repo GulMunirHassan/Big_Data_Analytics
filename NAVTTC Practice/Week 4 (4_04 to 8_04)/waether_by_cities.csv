@@ -1,0 +1,21 @@
+day,city,temperature,windspeed,event
+1/28/2020,new york,32,6,rain 
+1/29/2020,new york,36,7,sunny
+1/30/2020,new york,28,12,snow
+1/31/2020,new york,33,7,sunny
+2/1/2020,mumbai,90,5,sunny
+2/2/2020,mumbai,85,12,fog
+2/3/2020,mumbai,87,15,fog
+2/4/2020,mumbai,92,5,rain 
+2/5/2020,paris,45,20,sunny
+2/6/2020,paris,50,13,cloudy
+2/7/2020,paris,,8,cloudy
+2/8/2020,paris,42,10,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
