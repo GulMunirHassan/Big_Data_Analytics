@@ -1,0 +1,38 @@
+points from previous lecture:
+
+1. Data
+2. Innovation of Data
+3. Big Data (Collecting and organizing a huge amount of data)
+4. Data Analysis (Analyzing the data from a collection of a huge amount of data)
+5. Industry Revolution (Industry 5.0)
+6. Increasing the rate of generation of data day by day
+7. Usage of Data is Increasing
+8. Data Mining (Extract usfull or meaningfull data from a huge amount of data)
+9. social media (providing suggestions on the basis of our search history and our interests)
+
+
+Probability and statistics
+        1. Linear regression y=f(x) => uses linear function => good society, price good.
+        2. Correlation
+        3. Deviation
+        4. Probabilistic methods
+        5. Decission trees => used in Software developers domain => Total cost ko predict karnay k liay use hoti hai.
+
+
+anomalies => something which is not obvious
+
+        Data: Catagorical and Numerical data (Numerical data can be discrete or continuous)
+                categorical => bar and pie plots
+                numerical => histograms,line plot, scatter plots
+
+        Measurement of data:
+                Qualitative and Quantitative:
+                1. Qualitative=> Nominal and Ordinal
+                2. Quantitative=> Ordinal,Interval,Ratio
+
+Library:
+        1. Group of functions and modules.
+        2. reusable functions (functions are that chunk of code that do a specific task)
+        3. module is called the library.
+        4. Matplotlib is the library of python used for visualization of the data
+        5. 
